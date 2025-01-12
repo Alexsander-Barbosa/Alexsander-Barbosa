@@ -1,5 +1,5 @@
 ## 
-### Hi there, eu sou o Alex.
+### Olá, eu sou o Alex.
 #### Um estudante de administração e tecnologia.
 Durante o E.F II e E.M me formei como técnico em Administração, adquirindo muita paixão pelos negócios. Além da estudante, empreendo há mais de 3 anos no setor de vestuário e quero utilizar a tecnologia para potencializar os negócios.
 
