@@ -11,7 +11,7 @@ Skills: Pacote Office | Compras e Vendas | Comunicação
 - ⚡ Peculiaridade: Quando estou muito eufórico minha fala não da conta de acompanhar meu raciocínio, assim acabo pronunciando falas bem confusas de se entender. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Alex-Silva2004)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Alexsander Barbosa/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Alex-Silva2004)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alexsander-barbosa-b295101b8)  
 
 
 
