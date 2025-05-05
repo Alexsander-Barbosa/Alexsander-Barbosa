@@ -1,5 +1,5 @@
 ## 
-### Olá, eu sou o Alex.
+### Olá, eu sou o Alex!
 #### Estudante de Administração e Tecnologia.
 Durante o E.F II e E.M me formei como técnico em Administração, adquirindo muita paixão pelos negócios. Além de estudante, empreendo há mais de 3 anos no setor de vestuário e quero utilizar a tecnologia para potencializar os meus negócios. Acredito que a tecnologia também irá ampliar a minha visão e poderá me ajudar de muitas formas, atualmente ela deve ser a ferramenta mais poderosa que temos, e com o seu avanço, os limites estão sendo estabelecidos perante a criatividade e vontade de cada indivíduo.
 
